@@ -127,9 +127,6 @@
     <Compile Include="Progress.Designer.cs">
       <DependentUpon>Progress.cs</DependentUpon>
     </Compile>
-    <Compile Include="customButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PlayerLayout.cs">
       <SubType>UserControl</SubType>

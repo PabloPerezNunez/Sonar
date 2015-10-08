@@ -98,9 +98,9 @@
             // 
             // customTextBox1
             // 
-            this.customTextBox1.Location = new System.Drawing.Point(351, 14);
+            this.customTextBox1.Location = new System.Drawing.Point(648, 14);
             this.customTextBox1.Name = "customTextBox1";
-            this.customTextBox1.Size = new System.Drawing.Size(421, 20);
+            this.customTextBox1.Size = new System.Drawing.Size(124, 20);
             this.customTextBox1.TabIndex = 4;
             // 
             // playerLayout2

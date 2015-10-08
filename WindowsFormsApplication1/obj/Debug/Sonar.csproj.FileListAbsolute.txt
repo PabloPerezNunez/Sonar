@@ -61,3 +61,9 @@ C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug
 C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csproj.GenerateResource.Cache
 C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.exe.manifest
 C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.application
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\bin\Debug\Sönar.exe.config
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\obj\Debug\Sonar.csproj.ResolveComReference.cache
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\obj\Debug\Sönar.exe
+C:\Users\PPN\Documents\Git\Sonar\WindowsFormsApplication1\obj\Debug\Sönar.pdb
