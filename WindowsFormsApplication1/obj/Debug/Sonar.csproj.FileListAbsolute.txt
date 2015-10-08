@@ -1,0 +1,63 @@
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe.config
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe.manifest
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.application
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.pdb
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CsQuery.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CsQuery.xml
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csproj.ResolveComReference.cache
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.vPrincipal.resources
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.itemLista.resources
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.Progress.resources
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.Properties.Resources.resources
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.PlayerLayout.resources
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csproj.GenerateResource.Cache
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.exe.manifest
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.application
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.exe
+C:\Users\PPN\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe.config
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csproj.ResolveComReference.cache
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.exe
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe.manifest
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.application
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.exe
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Sönar.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CsQuery.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CsQuery.xml
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csprojResolveAssemblyReference.cache
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.vPrincipal.resources
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.itemLista.resources
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.Progress.resources
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.Properties.Resources.resources
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.PlayerLayout.resources
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sonar.csproj.GenerateResource.Cache
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.exe.manifest
+C:\Users\PPN\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Sönar.application
